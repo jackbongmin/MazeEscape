@@ -24,4 +24,3 @@ void Test::TestBattle()
 	delete Player;
 	Player = nullptr;
 }
-//
